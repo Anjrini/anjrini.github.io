@@ -9,7 +9,7 @@
 # Basic Site Settings
 theme: jekyll-theme-minimal
 locale                   : "en-US"
-title                    : "Mustafa Anjrini"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mustafa"
 description              : &description "Data enthusiast/ Data Scientist/ Machine Learning Engineer"
