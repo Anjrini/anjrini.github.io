@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 theme: jekyll-theme-minimal
-locale                   : "en-US"
+locale                   : "en-DE"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mustafa"
